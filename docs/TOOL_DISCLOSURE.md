@@ -45,6 +45,6 @@ retrieval quality measurable.
 
 | Assistant | Usage |
 |-----------|-------|
-| Claude (Anthropic) | Code generation, architecture guidance, implementation assistance |
+| Claude (Anthropic) | Code-generation assistance for boilerplate/scaffolding only; all architecture, design, and implementation authored and reviewed by the team |
 
 All architectural and design decisions were reviewed and are understood by the team.
