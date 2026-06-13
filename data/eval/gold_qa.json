@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How much does standard shipping cost for an order under $50?",
+    "ground_truth": "Standard shipping for orders under $50 costs a flat $5.99. Orders over $50 get free standard shipping.",
+    "reference_doc": "shipping_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "How long does express shipping take?",
+    "ground_truth": "Express shipping takes 2-3 business days from the date of shipment, and costs $12.99 flat rate.",
+    "reference_doc": "shipping_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "What is the cutoff time for overnight shipping to arrive the next day?",
+    "ground_truth": "Orders must be placed before 2:00 PM EST for next business day delivery. Orders placed after 2:00 PM EST ship the following business day.",
+    "reference_doc": "shipping_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "Can I ship a portable charger with overnight shipping?",
+    "ground_truth": "No. Lithium battery products like power banks cannot be shipped via Overnight shipping due to carrier restrictions.",
+    "reference_doc": "shipping_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "What should I do if my package is lost?",
+    "ground_truth": "Contact TechMart support if the package hasn't arrived within 3 business days after the estimated delivery date. TechMart will file a carrier investigation. If confirmed lost, they will reship or issue a full refund. Lost package claims must be filed within 30 days of shipment.",
+    "reference_doc": "shipping_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "What is the return window for items?",
+    "ground_truth": "All items can be returned within 30 days of the delivery date for a full refund or exchange. After 30 days, returns are not accepted except for items under warranty.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "Is there a restocking fee for returning opened items?",
+    "ground_truth": "Yes, a 15% restocking fee applies to opened items returned in good condition. Defective items are exempt from the restocking fee regardless of condition.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "How long does it take to get a refund?",
+    "ground_truth": "Refunds are processed within 5-7 business days after TechMart receives and inspects the returned item. Refunds under $50 are auto-approved. Refunds between $50-$200 require supervisor review (up to 24 hours). Refunds over $200 require manager approval (up to 48 hours).",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "What are the refund threshold limits for auto-approval?",
+    "ground_truth": "Refunds under $50 are auto-approved. Refunds between $50 and $200 require supervisor review within 24 hours. Refunds over $200 require manager approval and may take up to 48 hours.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "Can I get a bonus if I choose store credit instead of a refund?",
+    "ground_truth": "Yes, choosing store credit includes a 10% bonus. For example, a $100 refund becomes $110 in store credit, and it is issued within 24 hours.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "What items cannot be returned?",
+    "ground_truth": "Non-returnable items include gift cards and store credit, activated software licenses and digital downloads, customized or personalized products, items marked as Final Sale, and opened consumables like batteries and ink cartridges.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "Who pays for return shipping if I changed my mind about a purchase?",
+    "ground_truth": "For change-of-mind returns, the customer pays for return shipping. TechMart offers discounted return labels at $4.99. For defective or wrong items, TechMart provides a free prepaid return label.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "What does the warranty cover?",
+    "ground_truth": "The warranty covers manufacturing defects and hardware malfunctions under normal use. It does not cover physical damage, software issues, unauthorized modifications, or normal wear and tear.",
+    "reference_doc": "returns_policy.md",
+    "doc_type": "policy"
+  },
+  {
+    "question": "How much does the USB-C Hub cost and what ports does it have?",
+    "ground_truth": "The USB-C Hub (TM-ACC-001) costs $34.99. It has 4K HDMI output, 2x USB-A 3.0, 1x USB-C data, SD card reader, microSD card reader, and 100W USB-C power pass-through.",
+    "reference_doc": "electronics_catalog.md",
+    "doc_type": "catalog"
+  },
+  {
+    "question": "Are the wireless earbuds waterproof?",
+    "ground_truth": "The Wireless Earbuds have an IPX5 rating, meaning they are water-resistant against splashes and sweat but should not be submerged. The Bluetooth Speaker has a higher IPX7 rating and can be submerged.",
+    "reference_doc": "faq.md",
+    "doc_type": "faq"
+  },
+  {
+    "question": "Can I take the portable charger on an airplane?",
+    "ground_truth": "Yes, the 20,000mAh Portable Charger is under the 100Wh airline limit and is approved for carry-on luggage. Power banks must always be carried on, never checked.",
+    "reference_doc": "faq.md",
+    "doc_type": "faq"
+  },
+  {
+    "question": "What payment methods does TechMart accept?",
+    "ground_truth": "TechMart accepts Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, and TechMart store credit.",
+    "reference_doc": "faq.md",
+    "doc_type": "faq"
+  },
+  {
+    "question": "How much does the mechanical keyboard cost and what switches does it use?",
+    "ground_truth": "The Mechanical Keyboard (TM-ACC-002) costs $89.99 and comes with hot-swappable Gateron Brown switches. It has RGB per-key backlighting and a USB-C wired connection.",
+    "reference_doc": "electronics_catalog.md",
+    "doc_type": "catalog"
+  },
+  {
+    "question": "What is the battery life of the smart watch?",
+    "ground_truth": "The Smart Watch (TM-MOB-002) has a 7-day battery life with typical use. It has a 1.4-inch AMOLED display and an always-on display option.",
+    "reference_doc": "electronics_catalog.md",
+    "doc_type": "catalog"
+  },
+  {
+    "question": "Does TechMart ship to Puerto Rico?",
+    "ground_truth": "No, TechMart does not ship to US territories including Puerto Rico and Guam. They only ship to the 50 US states and Washington DC.",
+    "reference_doc": "shipping_policy.md",
+    "doc_type": "policy"
+  }
+]

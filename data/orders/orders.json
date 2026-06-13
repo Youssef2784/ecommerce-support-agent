@@ -1,0 +1,4666 @@
+[
+  {
+    "order_id": "ORD-10000",
+    "customer_id": "CUST-1040",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 59.99,
+    "order_date": "2026-04-30T13:30:02.784808",
+    "estimated_delivery": "2026-05-05",
+    "shipping_address": "32181 Johnson Course Apt. 389, New Jamesside, MT 29394",
+    "tracking_number": "TRK-7940-WZKS"
+  },
+  {
+    "order_id": "ORD-10001",
+    "customer_id": "CUST-1047",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 159.97,
+    "order_date": "2026-04-11T01:11:09.560042",
+    "estimated_delivery": "2026-04-15",
+    "shipping_address": "1161 Abbott Rapids, Lindsaymouth, ND 16862",
+    "tracking_number": "TRK-6184-ONXK"
+  },
+  {
+    "order_id": "ORD-10002",
+    "customer_id": "CUST-1013",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 84.97,
+    "order_date": "2026-03-21T07:40:56.077836",
+    "estimated_delivery": "2026-03-30",
+    "shipping_address": "1316 Chavez Village, Franciscostad, IL 88342",
+    "tracking_number": "TRK-4192-IUPK"
+  },
+  {
+    "order_id": "ORD-10003",
+    "customer_id": "CUST-1014",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 120.97,
+    "order_date": "2026-04-14T14:49:15.407354",
+    "estimated_delivery": "2026-04-23",
+    "shipping_address": "503 Linda Locks, Carlshire, FM 94599",
+    "tracking_number": "TRK-5376-PDJQ"
+  },
+  {
+    "order_id": "ORD-10004",
+    "customer_id": "CUST-1021",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-03-16T13:56:25.364630",
+    "estimated_delivery": "2026-03-20",
+    "shipping_address": "969 Cox Dam Suite 101, Lake Ernest, TX 55834",
+    "tracking_number": "TRK-9166-MDHQ"
+  },
+  {
+    "order_id": "ORD-10005",
+    "customer_id": "CUST-1005",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 34.99,
+    "order_date": "2026-05-30T09:52:05.464324",
+    "estimated_delivery": "2026-06-06",
+    "shipping_address": "184 Rodriguez Mews, South Aaron, VA 94830",
+    "tracking_number": "TRK-4828-GOTO"
+  },
+  {
+    "order_id": "ORD-10006",
+    "customer_id": "CUST-1002",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 102.97,
+    "order_date": "2026-04-18T16:53:26.570258",
+    "estimated_delivery": "2026-04-26",
+    "shipping_address": "88095 Smith Lake Suite 303, North Jessicaland, WV 70323",
+    "tracking_number": "TRK-2278-KQHM"
+  },
+  {
+    "order_id": "ORD-10007",
+    "customer_id": "CUST-1036",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 144.97,
+    "order_date": "2026-04-11T02:19:00.623002",
+    "estimated_delivery": "2026-04-17",
+    "shipping_address": "465 Lam Mission, East Jeffreymouth, AK 77611",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10008",
+    "customer_id": "CUST-1024",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 79.98,
+    "order_date": "2026-04-22T20:48:33.758373",
+    "estimated_delivery": "2026-04-28",
+    "shipping_address": "03105 Willie Harbors, Lewisberg, VA 75348",
+    "tracking_number": "TRK-9737-ZAMG"
+  },
+  {
+    "order_id": "ORD-10009",
+    "customer_id": "CUST-1042",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 134.97,
+    "order_date": "2026-03-12T17:42:34.011443",
+    "estimated_delivery": "2026-03-18",
+    "shipping_address": "7010 Chandler Union Apt. 333, Taylorburgh, KY 61138",
+    "tracking_number": "TRK-3178-GDPI"
+  },
+  {
+    "order_id": "ORD-10010",
+    "customer_id": "CUST-1010",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 77.98,
+    "order_date": "2026-05-18T06:09:30.501582",
+    "estimated_delivery": "2026-05-24",
+    "shipping_address": "Unit 3267 Box 7360, DPO AE 50173",
+    "tracking_number": "TRK-0647-SBSU"
+  },
+  {
+    "order_id": "ORD-10011",
+    "customer_id": "CUST-1043",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-06-01T14:27:06.833495",
+    "estimated_delivery": "2026-06-09",
+    "shipping_address": "34309 Julie Centers Apt. 978, North Susan, CO 24857",
+    "tracking_number": "TRK-1913-ZHKP"
+  },
+  {
+    "order_id": "ORD-10012",
+    "customer_id": "CUST-1025",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-04-25T02:48:14.591176",
+    "estimated_delivery": "2026-05-03",
+    "shipping_address": "9985 Harris Stravenue, Johnfurt, DC 88540",
+    "cancellation_reason": "Payment failed"
+  },
+  {
+    "order_id": "ORD-10013",
+    "customer_id": "CUST-1041",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 82.98,
+    "order_date": "2026-05-01T02:37:14.134001",
+    "estimated_delivery": "2026-05-06",
+    "shipping_address": "79911 William Curve, Nicolebury, MN 37854",
+    "tracking_number": "TRK-2784-NZPH"
+  },
+  {
+    "order_id": "ORD-10014",
+    "customer_id": "CUST-1015",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 74.97,
+    "order_date": "2026-03-04T17:14:12.481215",
+    "estimated_delivery": "2026-03-09",
+    "shipping_address": "124 Pamela Summit Apt. 449, Lake Matthew, TX 83631",
+    "tracking_number": "TRK-4874-DFOB"
+  },
+  {
+    "order_id": "ORD-10015",
+    "customer_id": "CUST-1032",
+    "status": "returned",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 42.99,
+    "order_date": "2026-05-17T15:43:50.742958",
+    "estimated_delivery": "2026-05-22",
+    "shipping_address": "42786 Daniel Spurs Apt. 805, South David, ME 48296",
+    "return_reason": "Defective product"
+  },
+  {
+    "order_id": "ORD-10016",
+    "customer_id": "CUST-1043",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 107.97,
+    "order_date": "2026-05-23T22:08:20.056462",
+    "estimated_delivery": "2026-05-26",
+    "shipping_address": "3315 Dickson Summit, East Michelle, AS 23707",
+    "tracking_number": "TRK-6025-YAZQ"
+  },
+  {
+    "order_id": "ORD-10017",
+    "customer_id": "CUST-1043",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 194.97,
+    "order_date": "2026-05-20T18:43:01.884646",
+    "estimated_delivery": "2026-05-27",
+    "shipping_address": "16073 Lisa Mount Suite 433, Lake Jamesmouth, KY 09600",
+    "tracking_number": "TRK-4586-RIVB"
+  },
+  {
+    "order_id": "ORD-10018",
+    "customer_id": "CUST-1027",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 124.98,
+    "order_date": "2026-03-14T09:28:37.462397",
+    "estimated_delivery": "2026-03-19",
+    "shipping_address": "Unit 2940 Box 1965, DPO AP 41615",
+    "tracking_number": "TRK-6981-YKMQ"
+  },
+  {
+    "order_id": "ORD-10019",
+    "customer_id": "CUST-1032",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 134.97,
+    "order_date": "2026-03-08T00:12:49.686154",
+    "estimated_delivery": "2026-03-13",
+    "shipping_address": "6159 Alvarado Crossing, Williamchester, MD 53244",
+    "tracking_number": "TRK-4823-AQYR"
+  },
+  {
+    "order_id": "ORD-10020",
+    "customer_id": "CUST-1034",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 69.97,
+    "order_date": "2026-05-10T08:18:34.339796",
+    "estimated_delivery": "2026-05-17",
+    "shipping_address": "8044 Russell Prairie Suite 777, New Thomas, MH 96964",
+    "return_reason": "Defective product"
+  },
+  {
+    "order_id": "ORD-10021",
+    "customer_id": "CUST-1003",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 147.97,
+    "order_date": "2026-03-19T06:52:20.296836",
+    "estimated_delivery": "2026-03-24",
+    "shipping_address": "34332 Brandon Mountains Apt. 769, Lake Heather, NM 52884",
+    "tracking_number": "TRK-3201-XBOL"
+  },
+  {
+    "order_id": "ORD-10022",
+    "customer_id": "CUST-1008",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 109.97,
+    "order_date": "2026-05-15T09:12:58.241602",
+    "estimated_delivery": "2026-05-21",
+    "shipping_address": "83172 Contreras Points Suite 798, Rivasside, NV 21362",
+    "cancellation_reason": "Out of stock"
+  },
+  {
+    "order_id": "ORD-10023",
+    "customer_id": "CUST-1025",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 54.98,
+    "order_date": "2026-05-09T22:38:04.718233",
+    "estimated_delivery": "2026-05-13",
+    "shipping_address": "48734 Jones Heights Apt. 455, East Edwardfurt, UT 20529",
+    "tracking_number": "TRK-3166-VIDA"
+  },
+  {
+    "order_id": "ORD-10024",
+    "customer_id": "CUST-1021",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 129.97,
+    "order_date": "2026-03-09T14:49:58.165498",
+    "estimated_delivery": "2026-03-12",
+    "shipping_address": "096 Smith Knoll Suite 668, South Jeffrey, NE 64155",
+    "tracking_number": "TRK-0656-UKDI"
+  },
+  {
+    "order_id": "ORD-10025",
+    "customer_id": "CUST-1014",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 89.99,
+    "order_date": "2026-05-31T06:41:54.097187",
+    "estimated_delivery": "2026-06-06",
+    "shipping_address": "901 Taylor Mountain Apt. 046, Jasonmouth, MA 50193",
+    "tracking_number": "TRK-4641-EBVI"
+  },
+  {
+    "order_id": "ORD-10026",
+    "customer_id": "CUST-1017",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 39.99,
+    "order_date": "2026-03-08T16:50:37.689700",
+    "estimated_delivery": "2026-03-18",
+    "shipping_address": "USNS Santos, FPO AP 05777",
+    "tracking_number": "TRK-0330-NJPI"
+  },
+  {
+    "order_id": "ORD-10027",
+    "customer_id": "CUST-1015",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 59.98,
+    "order_date": "2026-04-15T15:13:50.809917",
+    "estimated_delivery": "2026-04-24",
+    "shipping_address": "4529 Kimberly Estates, Danieltown, ME 75971",
+    "tracking_number": "TRK-6631-LSOP"
+  },
+  {
+    "order_id": "ORD-10028",
+    "customer_id": "CUST-1026",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 109.97,
+    "order_date": "2026-03-13T04:26:44.551148",
+    "estimated_delivery": "2026-03-21",
+    "shipping_address": "058 Stanley Cliff, Alexanderchester, GU 64752",
+    "tracking_number": "TRK-1657-TJBL"
+  },
+  {
+    "order_id": "ORD-10029",
+    "customer_id": "CUST-1006",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 39.99,
+    "order_date": "2026-05-09T01:20:12.284008",
+    "estimated_delivery": "2026-05-18",
+    "shipping_address": "Unit 4987 Box 7694, DPO AA 32678",
+    "tracking_number": "TRK-1473-WDKN"
+  },
+  {
+    "order_id": "ORD-10030",
+    "customer_id": "CUST-1011",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 34.98,
+    "order_date": "2026-05-03T03:37:33.546184",
+    "estimated_delivery": "2026-05-07",
+    "shipping_address": "2735 Peterson Ranch Suite 808, North John, MT 64539",
+    "tracking_number": "TRK-8377-CYBF"
+  },
+  {
+    "order_id": "ORD-10031",
+    "customer_id": "CUST-1003",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 14.99,
+    "order_date": "2026-03-30T11:53:15.880348",
+    "estimated_delivery": "2026-04-04",
+    "shipping_address": "9578 Coleman Summit, Michaelmouth, KY 40690",
+    "return_reason": "Not as described"
+  },
+  {
+    "order_id": "ORD-10032",
+    "customer_id": "CUST-1031",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 42.99,
+    "order_date": "2026-03-26T15:22:14.986139",
+    "estimated_delivery": "2026-03-31",
+    "shipping_address": "1823 Joanna Harbor, Tinaborough, LA 30317",
+    "cancellation_reason": "Duplicate order"
+  },
+  {
+    "order_id": "ORD-10033",
+    "customer_id": "CUST-1000",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 85.98,
+    "order_date": "2026-04-05T11:50:31.193706",
+    "estimated_delivery": "2026-04-15",
+    "shipping_address": "0084 Dana Terrace, Garciatown, OK 37769",
+    "tracking_number": "TRK-7775-LDQE"
+  },
+  {
+    "order_id": "ORD-10034",
+    "customer_id": "CUST-1009",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 119.98,
+    "order_date": "2026-03-14T06:46:01.606277",
+    "estimated_delivery": "2026-03-17",
+    "shipping_address": "90229 Miller Gateway Apt. 869, Port Alexandra, NV 58529",
+    "tracking_number": "TRK-4964-KNDN"
+  },
+  {
+    "order_id": "ORD-10035",
+    "customer_id": "CUST-1047",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 69.99,
+    "order_date": "2026-05-29T10:10:25.853329",
+    "estimated_delivery": "2026-06-03",
+    "shipping_address": "341 John Plaza, East Aaronmouth, UT 78333",
+    "tracking_number": "TRK-7403-STSS"
+  },
+  {
+    "order_id": "ORD-10036",
+    "customer_id": "CUST-1003",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 29.99,
+    "order_date": "2026-05-20T09:05:21.942904",
+    "estimated_delivery": "2026-05-26",
+    "shipping_address": "9361 Deborah Grove, North Brian, WY 40820",
+    "tracking_number": "TRK-9947-HDST"
+  },
+  {
+    "order_id": "ORD-10037",
+    "customer_id": "CUST-1025",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 134.97,
+    "order_date": "2026-05-05T23:45:49.134371",
+    "estimated_delivery": "2026-05-13",
+    "shipping_address": "USCGC Kim, FPO AP 05725",
+    "tracking_number": "TRK-6594-BFOR"
+  },
+  {
+    "order_id": "ORD-10038",
+    "customer_id": "CUST-1016",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 139.97,
+    "order_date": "2026-05-18T06:00:34.181735",
+    "estimated_delivery": "2026-05-25",
+    "shipping_address": "490 Thomas Run, Moonburgh, OR 57633",
+    "tracking_number": "TRK-7175-AVUQ"
+  },
+  {
+    "order_id": "ORD-10039",
+    "customer_id": "CUST-1029",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 69.99,
+    "order_date": "2026-03-13T10:16:28.702514",
+    "estimated_delivery": "2026-03-17",
+    "shipping_address": "746 Shawn Island Suite 516, Lake Mollymouth, MT 07605",
+    "tracking_number": "TRK-3859-WFOC"
+  },
+  {
+    "order_id": "ORD-10040",
+    "customer_id": "CUST-1004",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 65.97,
+    "order_date": "2026-05-11T09:55:06.408411",
+    "estimated_delivery": "2026-05-19",
+    "shipping_address": "7710 Jennifer Inlet, New Rickybury, MP 15372",
+    "return_reason": "Changed my mind"
+  },
+  {
+    "order_id": "ORD-10041",
+    "customer_id": "CUST-1010",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 122.97,
+    "order_date": "2026-04-14T13:03:58.825134",
+    "estimated_delivery": "2026-04-17",
+    "shipping_address": "4846 Baird Gardens, Arnoldfurt, ID 79062",
+    "tracking_number": "TRK-8214-XYAV"
+  },
+  {
+    "order_id": "ORD-10042",
+    "customer_id": "CUST-1042",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 104.97,
+    "order_date": "2026-05-27T02:18:55.509275",
+    "estimated_delivery": "2026-06-01",
+    "shipping_address": "4997 Sean Orchard, Martinside, MS 60183",
+    "return_reason": "Changed my mind"
+  },
+  {
+    "order_id": "ORD-10043",
+    "customer_id": "CUST-1018",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 112.97,
+    "order_date": "2026-05-26T23:17:59.140442",
+    "estimated_delivery": "2026-06-02",
+    "shipping_address": "636 Louis Mountains, Hughesberg, NM 05353",
+    "tracking_number": "TRK-2895-GCGH"
+  },
+  {
+    "order_id": "ORD-10044",
+    "customer_id": "CUST-1003",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 204.97,
+    "order_date": "2026-05-24T22:53:34.485768",
+    "estimated_delivery": "2026-05-31",
+    "shipping_address": "2174 Hanson Locks, Port Markside, MS 42006",
+    "tracking_number": "TRK-7809-EPOR"
+  },
+  {
+    "order_id": "ORD-10045",
+    "customer_id": "CUST-1010",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 109.97,
+    "order_date": "2026-05-25T21:32:44.672116",
+    "estimated_delivery": "2026-05-30",
+    "shipping_address": "Unit 1611 Box 7240, DPO AE 43017",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10046",
+    "customer_id": "CUST-1023",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 119.98,
+    "order_date": "2026-05-14T16:00:31.585101",
+    "estimated_delivery": "2026-05-17",
+    "shipping_address": "2386 George Common Suite 937, East Steven, KS 60737",
+    "return_reason": "Changed my mind"
+  },
+  {
+    "order_id": "ORD-10047",
+    "customer_id": "CUST-1013",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 137.97,
+    "order_date": "2026-03-26T23:50:40.482646",
+    "estimated_delivery": "2026-03-31",
+    "shipping_address": "8217 Huerta Hills Suite 474, South Melissa, CT 31592",
+    "tracking_number": "TRK-6959-SSSB"
+  },
+  {
+    "order_id": "ORD-10048",
+    "customer_id": "CUST-1015",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 12.99,
+    "order_date": "2026-05-31T00:41:56.312070",
+    "estimated_delivery": "2026-06-08",
+    "shipping_address": "90974 Catherine Knoll Apt. 394, Lake Colton, SC 85218",
+    "tracking_number": "TRK-0470-LXUI"
+  },
+  {
+    "order_id": "ORD-10049",
+    "customer_id": "CUST-1026",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 124.98,
+    "order_date": "2026-03-12T03:01:37.129803",
+    "estimated_delivery": "2026-03-15",
+    "shipping_address": "32858 Rivas Glens Suite 451, Mccartyberg, WV 30072",
+    "tracking_number": "TRK-6851-YZAQ"
+  },
+  {
+    "order_id": "ORD-10050",
+    "customer_id": "CUST-1030",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 44.99,
+    "order_date": "2026-04-21T07:20:06.269100",
+    "estimated_delivery": "2026-04-28",
+    "shipping_address": "651 Thomas River Suite 931, Blankenshipport, SD 54017",
+    "tracking_number": "TRK-1200-TFHG"
+  },
+  {
+    "order_id": "ORD-10051",
+    "customer_id": "CUST-1014",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 19.99,
+    "order_date": "2026-03-25T03:30:25.052186",
+    "estimated_delivery": "2026-04-01",
+    "shipping_address": "5869 Nicole Shoal Apt. 796, Antoniostad, IL 58616",
+    "tracking_number": "TRK-7351-RXIP"
+  },
+  {
+    "order_id": "ORD-10052",
+    "customer_id": "CUST-1004",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 79.98,
+    "order_date": "2026-04-05T07:04:27.789267",
+    "estimated_delivery": "2026-04-13",
+    "shipping_address": "71390 Kristin Gardens, Port Anne, CA 73142",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10053",
+    "customer_id": "CUST-1007",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 39.99,
+    "order_date": "2026-03-22T15:47:55.711816",
+    "estimated_delivery": "2026-03-25",
+    "shipping_address": "2904 Vanessa Plains, Laurenville, TN 03880",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10054",
+    "customer_id": "CUST-1038",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 74.98,
+    "order_date": "2026-03-15T21:02:01.913073",
+    "estimated_delivery": "2026-03-19",
+    "shipping_address": "502 Williams Streets, Foxland, NJ 59257",
+    "tracking_number": "TRK-5891-CGON"
+  },
+  {
+    "order_id": "ORD-10055",
+    "customer_id": "CUST-1024",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 134.98,
+    "order_date": "2026-03-07T22:00:26.526928",
+    "estimated_delivery": "2026-03-13",
+    "shipping_address": "0076 Parks Overpass Suite 115, North David, RI 83479",
+    "tracking_number": "TRK-9856-MHSD"
+  },
+  {
+    "order_id": "ORD-10056",
+    "customer_id": "CUST-1023",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 42.99,
+    "order_date": "2026-04-18T12:19:45.155201",
+    "estimated_delivery": "2026-04-26",
+    "shipping_address": "836 Beasley Loop, Mariafurt, MT 96132",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10057",
+    "customer_id": "CUST-1046",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 99.97,
+    "order_date": "2026-03-12T13:43:27.486207",
+    "estimated_delivery": "2026-03-17",
+    "shipping_address": "2711 Christopher Court Suite 280, Elizabethchester, MI 87708",
+    "tracking_number": "TRK-6049-TWGK"
+  },
+  {
+    "order_id": "ORD-10058",
+    "customer_id": "CUST-1012",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 125.97,
+    "order_date": "2026-04-18T16:20:59.965223",
+    "estimated_delivery": "2026-04-25",
+    "shipping_address": "15851 Andrews Valley Suite 899, New Sarahview, AK 24148",
+    "tracking_number": "TRK-4455-ALJK"
+  },
+  {
+    "order_id": "ORD-10059",
+    "customer_id": "CUST-1025",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 174.98,
+    "order_date": "2026-05-02T04:12:11.880491",
+    "estimated_delivery": "2026-05-10",
+    "shipping_address": "83667 Moore Inlet, Kimberlyshire, PA 11636",
+    "tracking_number": "TRK-0229-DRFR"
+  },
+  {
+    "order_id": "ORD-10060",
+    "customer_id": "CUST-1029",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 79.98,
+    "order_date": "2026-04-12T21:27:46.488393",
+    "estimated_delivery": "2026-04-17",
+    "shipping_address": "4381 Jordan Haven Suite 840, South Tracey, AR 01508",
+    "tracking_number": "TRK-3432-WQSU"
+  },
+  {
+    "order_id": "ORD-10061",
+    "customer_id": "CUST-1042",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 109.98,
+    "order_date": "2026-03-14T19:30:18.256654",
+    "estimated_delivery": "2026-03-20",
+    "shipping_address": "26838 Jones Wall Apt. 607, Port Lawrencechester, OK 53509",
+    "tracking_number": "TRK-6416-BUKZ"
+  },
+  {
+    "order_id": "ORD-10062",
+    "customer_id": "CUST-1043",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 14.99,
+    "order_date": "2026-05-28T07:11:08.869325",
+    "estimated_delivery": "2026-05-31",
+    "shipping_address": "61369 Warren Locks Suite 535, North William, DE 70048",
+    "tracking_number": "TRK-8355-UPJP"
+  },
+  {
+    "order_id": "ORD-10063",
+    "customer_id": "CUST-1015",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 107.97,
+    "order_date": "2026-03-13T06:23:48.008000",
+    "estimated_delivery": "2026-03-19",
+    "shipping_address": "212 Marshall Port, Maldonadoshire, SD 83770",
+    "tracking_number": "TRK-9552-CEEC"
+  },
+  {
+    "order_id": "ORD-10064",
+    "customer_id": "CUST-1045",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 64.98,
+    "order_date": "2026-04-29T20:07:50.693318",
+    "estimated_delivery": "2026-05-03",
+    "shipping_address": "8147 Johnson Land, Chaseland, RI 78368",
+    "tracking_number": "TRK-8679-JYVC"
+  },
+  {
+    "order_id": "ORD-10065",
+    "customer_id": "CUST-1049",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 29.99,
+    "order_date": "2026-04-13T11:45:49.279589",
+    "estimated_delivery": "2026-04-23",
+    "shipping_address": "9782 Shannon Valleys, Toniland, NY 85190",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10066",
+    "customer_id": "CUST-1035",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 54.99,
+    "order_date": "2026-03-19T13:03:58.095329",
+    "estimated_delivery": "2026-03-27",
+    "shipping_address": "8892 Watson Haven Suite 659, Port Crystalmouth, CA 43714",
+    "return_reason": "Not as described"
+  },
+  {
+    "order_id": "ORD-10067",
+    "customer_id": "CUST-1039",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 107.97,
+    "order_date": "2026-03-12T12:28:18.247877",
+    "estimated_delivery": "2026-03-18",
+    "shipping_address": "9251 Sabrina Inlet Suite 291, Angelicamouth, GU 17251",
+    "tracking_number": "TRK-8168-XBXT"
+  },
+  {
+    "order_id": "ORD-10068",
+    "customer_id": "CUST-1040",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 99.97,
+    "order_date": "2026-03-20T05:42:24.488290",
+    "estimated_delivery": "2026-03-26",
+    "shipping_address": "32214 William Plains Apt. 592, Mooreburgh, MP 91313",
+    "tracking_number": "TRK-9270-AXRU"
+  },
+  {
+    "order_id": "ORD-10069",
+    "customer_id": "CUST-1017",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 84.98,
+    "order_date": "2026-03-25T09:24:14.846451",
+    "estimated_delivery": "2026-04-03",
+    "shipping_address": "738 Kyle Valleys Suite 359, Murrayport, WI 50553",
+    "tracking_number": "TRK-8862-MZMI"
+  },
+  {
+    "order_id": "ORD-10070",
+    "customer_id": "CUST-1044",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 134.97,
+    "order_date": "2026-05-21T14:01:22.930382",
+    "estimated_delivery": "2026-05-24",
+    "shipping_address": "8181 Miller Estates Suite 782, Davisbury, GU 59631",
+    "tracking_number": "TRK-5060-ZGXP"
+  },
+  {
+    "order_id": "ORD-10071",
+    "customer_id": "CUST-1013",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 82.98,
+    "order_date": "2026-04-07T18:27:27.733915",
+    "estimated_delivery": "2026-04-16",
+    "shipping_address": "51522 Justin Village, Hortonberg, WV 92977",
+    "tracking_number": "TRK-7790-FBQN"
+  },
+  {
+    "order_id": "ORD-10072",
+    "customer_id": "CUST-1030",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 174.98,
+    "order_date": "2026-05-18T03:51:33.060020",
+    "estimated_delivery": "2026-05-27",
+    "shipping_address": "43410 Robert Underpass Suite 117, Lake Zacharybury, VT 19319",
+    "return_reason": "Arrived too late"
+  },
+  {
+    "order_id": "ORD-10073",
+    "customer_id": "CUST-1047",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 94.98,
+    "order_date": "2026-03-30T05:29:10.976940",
+    "estimated_delivery": "2026-04-07",
+    "shipping_address": "96218 Jones Pine Apt. 670, Zavalaview, WA 02629",
+    "tracking_number": "TRK-5153-UQOG"
+  },
+  {
+    "order_id": "ORD-10074",
+    "customer_id": "CUST-1042",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 94.97,
+    "order_date": "2026-05-12T10:46:54.685078",
+    "estimated_delivery": "2026-05-15",
+    "shipping_address": "05852 Pollard Neck Apt. 217, West Jamesborough, FM 05993",
+    "tracking_number": "TRK-5486-IEQC"
+  },
+  {
+    "order_id": "ORD-10075",
+    "customer_id": "CUST-1025",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 59.99,
+    "order_date": "2026-05-10T19:26:50.184736",
+    "estimated_delivery": "2026-05-20",
+    "shipping_address": "54156 Paul Lights Suite 277, Sandrahaven, KY 11329",
+    "tracking_number": "TRK-6169-LISU"
+  },
+  {
+    "order_id": "ORD-10076",
+    "customer_id": "CUST-1011",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 184.98,
+    "order_date": "2026-03-13T05:57:01.330914",
+    "estimated_delivery": "2026-03-22",
+    "shipping_address": "7962 Bell Canyon Suite 964, North Emilyfurt, MN 67752",
+    "tracking_number": "TRK-2029-RYCC"
+  },
+  {
+    "order_id": "ORD-10077",
+    "customer_id": "CUST-1017",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 77.98,
+    "order_date": "2026-03-15T08:59:44.668974",
+    "estimated_delivery": "2026-03-18",
+    "shipping_address": "6909 Erika Land Suite 719, New Michael, MD 85640",
+    "tracking_number": "TRK-4310-VLFH"
+  },
+  {
+    "order_id": "ORD-10078",
+    "customer_id": "CUST-1022",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 172.97,
+    "order_date": "2026-04-07T20:13:53.867185",
+    "estimated_delivery": "2026-04-13",
+    "shipping_address": "7394 Gonzalez Dale Apt. 727, Port Evelynmouth, TN 46038",
+    "tracking_number": "TRK-1884-TKTT"
+  },
+  {
+    "order_id": "ORD-10079",
+    "customer_id": "CUST-1012",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 129.97,
+    "order_date": "2026-05-26T11:21:34.975479",
+    "estimated_delivery": "2026-06-01",
+    "shipping_address": "313 Joel Park Apt. 589, Tannerside, DC 80710",
+    "tracking_number": "TRK-1146-TUEH"
+  },
+  {
+    "order_id": "ORD-10080",
+    "customer_id": "CUST-1029",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 129.98,
+    "order_date": "2026-04-09T23:39:22.858292",
+    "estimated_delivery": "2026-04-13",
+    "shipping_address": "51778 Anderson Village, Port Tammy, NE 66412",
+    "tracking_number": "TRK-0182-TKKU"
+  },
+  {
+    "order_id": "ORD-10081",
+    "customer_id": "CUST-1049",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 159.98,
+    "order_date": "2026-05-27T03:22:21.417706",
+    "estimated_delivery": "2026-06-05",
+    "shipping_address": "43842 Mendez Course Apt. 992, Lake Claudia, MH 79817",
+    "tracking_number": "TRK-5900-FCPX"
+  },
+  {
+    "order_id": "ORD-10082",
+    "customer_id": "CUST-1025",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 19.99,
+    "order_date": "2026-04-24T22:09:53.095968",
+    "estimated_delivery": "2026-04-30",
+    "shipping_address": "078 May Hollow Suite 364, Joneston, GA 58120",
+    "return_reason": "Wrong size"
+  },
+  {
+    "order_id": "ORD-10083",
+    "customer_id": "CUST-1044",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 144.97,
+    "order_date": "2026-04-10T10:04:54.698561",
+    "estimated_delivery": "2026-04-18",
+    "shipping_address": "255 Hester Curve Suite 881, Johnville, KY 59430",
+    "tracking_number": "TRK-3210-SYNA"
+  },
+  {
+    "order_id": "ORD-10084",
+    "customer_id": "CUST-1034",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 109.97,
+    "order_date": "2026-03-26T08:36:09.700244",
+    "estimated_delivery": "2026-04-05",
+    "shipping_address": "9532 Ferrell Mountain, Kochfort, AK 12303",
+    "return_reason": "Wrong size"
+  },
+  {
+    "order_id": "ORD-10085",
+    "customer_id": "CUST-1027",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 124.97,
+    "order_date": "2026-05-28T02:02:30.284442",
+    "estimated_delivery": "2026-06-04",
+    "shipping_address": "95004 Harper Ville, Mitchelltown, PR 14590",
+    "tracking_number": "TRK-6245-WZXC"
+  },
+  {
+    "order_id": "ORD-10086",
+    "customer_id": "CUST-1039",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 74.98,
+    "order_date": "2026-04-09T01:35:42.685011",
+    "estimated_delivery": "2026-04-15",
+    "shipping_address": "8416 Duran Harbors, East Theresafurt, MN 44945",
+    "tracking_number": "TRK-8523-MGZG"
+  },
+  {
+    "order_id": "ORD-10087",
+    "customer_id": "CUST-1005",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 59.98,
+    "order_date": "2026-03-07T15:17:22.150280",
+    "estimated_delivery": "2026-03-16",
+    "shipping_address": "8729 Mark Ridge Suite 269, Brittneyhaven, MP 67310",
+    "tracking_number": "TRK-8794-EBXV"
+  },
+  {
+    "order_id": "ORD-10088",
+    "customer_id": "CUST-1021",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 124.98,
+    "order_date": "2026-05-03T15:45:38.507870",
+    "estimated_delivery": "2026-05-10",
+    "shipping_address": "Unit 9409 Box 7499, DPO AE 95056",
+    "tracking_number": "TRK-0972-HOUN"
+  },
+  {
+    "order_id": "ORD-10089",
+    "customer_id": "CUST-1021",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 149.97,
+    "order_date": "2026-05-12T17:29:17.265588",
+    "estimated_delivery": "2026-05-16",
+    "shipping_address": "91307 Barnes Loop, South Warren, RI 62315",
+    "cancellation_reason": "Payment failed"
+  },
+  {
+    "order_id": "ORD-10090",
+    "customer_id": "CUST-1046",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 69.98,
+    "order_date": "2026-05-21T13:37:30.504502",
+    "estimated_delivery": "2026-05-31",
+    "shipping_address": "283 Bolton Neck, Edwardsburgh, NH 70379",
+    "tracking_number": "TRK-5854-NEMP"
+  },
+  {
+    "order_id": "ORD-10091",
+    "customer_id": "CUST-1028",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 24.99,
+    "order_date": "2026-03-29T02:59:33.734688",
+    "estimated_delivery": "2026-04-04",
+    "shipping_address": "3757 Castro Underpass Suite 419, Huangfurt, GU 45738",
+    "tracking_number": "TRK-2404-TFWC"
+  },
+  {
+    "order_id": "ORD-10092",
+    "customer_id": "CUST-1019",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 59.98,
+    "order_date": "2026-05-02T01:14:18.665084",
+    "estimated_delivery": "2026-05-10",
+    "shipping_address": "84842 Christina Radial, East Brent, MH 70105",
+    "cancellation_reason": "Out of stock"
+  },
+  {
+    "order_id": "ORD-10093",
+    "customer_id": "CUST-1044",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 64.98,
+    "order_date": "2026-03-24T07:47:22.721486",
+    "estimated_delivery": "2026-04-01",
+    "shipping_address": "5712 Tamara Estate, Delgadofort, NJ 85768",
+    "tracking_number": "TRK-3454-PDXF"
+  },
+  {
+    "order_id": "ORD-10094",
+    "customer_id": "CUST-1007",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 39.99,
+    "order_date": "2026-05-01T17:18:14.927739",
+    "estimated_delivery": "2026-05-08",
+    "shipping_address": "62067 Sharon Well, Nancytown, ME 74944",
+    "tracking_number": "TRK-9154-DPIH"
+  },
+  {
+    "order_id": "ORD-10095",
+    "customer_id": "CUST-1006",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 79.98,
+    "order_date": "2026-04-17T11:11:22.980578",
+    "estimated_delivery": "2026-04-22",
+    "shipping_address": "USCGC Nelson, FPO AE 43844",
+    "tracking_number": "TRK-2742-AVVY"
+  },
+  {
+    "order_id": "ORD-10096",
+    "customer_id": "CUST-1017",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 49.99,
+    "order_date": "2026-03-30T13:35:28.627551",
+    "estimated_delivery": "2026-04-04",
+    "shipping_address": "96685 Richard Court, East Thomas, IA 01396",
+    "tracking_number": "TRK-4637-WRVT"
+  },
+  {
+    "order_id": "ORD-10097",
+    "customer_id": "CUST-1040",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 42.99,
+    "order_date": "2026-04-25T10:27:14.804091",
+    "estimated_delivery": "2026-05-05",
+    "shipping_address": "530 Steven Estate Suite 841, Michaelbury, IN 18008",
+    "tracking_number": "TRK-7279-XASJ"
+  },
+  {
+    "order_id": "ORD-10098",
+    "customer_id": "CUST-1030",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 59.98,
+    "order_date": "2026-05-25T03:58:48.603289",
+    "estimated_delivery": "2026-06-04",
+    "shipping_address": "91878 Miller Port, North Mariahaven, ID 75566",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10099",
+    "customer_id": "CUST-1004",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 69.98,
+    "order_date": "2026-04-21T07:31:29.390634",
+    "estimated_delivery": "2026-04-26",
+    "shipping_address": "39718 Stokes Motorway Apt. 867, New Stevenport, VA 03354",
+    "tracking_number": "TRK-6403-LECB"
+  },
+  {
+    "order_id": "ORD-10100",
+    "customer_id": "CUST-1036",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 14.99,
+    "order_date": "2026-04-04T00:31:16.466387",
+    "estimated_delivery": "2026-04-13",
+    "shipping_address": "70462 Katie Stream, Brooksfurt, NV 49980",
+    "tracking_number": "TRK-6182-PWHL"
+  },
+  {
+    "order_id": "ORD-10101",
+    "customer_id": "CUST-1038",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 107.97,
+    "order_date": "2026-06-01T08:53:16.530779",
+    "estimated_delivery": "2026-06-10",
+    "shipping_address": "300 Ford Stravenue, Patelbury, IA 60876",
+    "tracking_number": "TRK-5243-UWHC"
+  },
+  {
+    "order_id": "ORD-10102",
+    "customer_id": "CUST-1019",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 134.97,
+    "order_date": "2026-05-15T20:48:42.355201",
+    "estimated_delivery": "2026-05-22",
+    "shipping_address": "31190 Harper Squares, East Joyfurt, NV 31216",
+    "tracking_number": "TRK-8302-GSOU"
+  },
+  {
+    "order_id": "ORD-10103",
+    "customer_id": "CUST-1042",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 34.99,
+    "order_date": "2026-04-24T20:44:13.969472",
+    "estimated_delivery": "2026-04-29",
+    "shipping_address": "42836 Hill Point Apt. 687, West Shellyfurt, WY 69243",
+    "tracking_number": "TRK-5662-TYLW"
+  },
+  {
+    "order_id": "ORD-10104",
+    "customer_id": "CUST-1000",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 74.98,
+    "order_date": "2026-04-21T10:15:50.183903",
+    "estimated_delivery": "2026-04-28",
+    "shipping_address": "2708 Faulkner Point, South John, IL 43789",
+    "tracking_number": "TRK-1751-IUMD"
+  },
+  {
+    "order_id": "ORD-10105",
+    "customer_id": "CUST-1045",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 104.97,
+    "order_date": "2026-03-28T04:12:57.307160",
+    "estimated_delivery": "2026-04-03",
+    "shipping_address": "39837 Molly Isle, Susantown, IL 25407",
+    "tracking_number": "TRK-1739-TNZP"
+  },
+  {
+    "order_id": "ORD-10106",
+    "customer_id": "CUST-1027",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 94.97,
+    "order_date": "2026-04-22T16:49:48.578852",
+    "estimated_delivery": "2026-04-25",
+    "shipping_address": "8544 Hunt Parks Suite 175, West Lawrence, AZ 74232",
+    "tracking_number": "TRK-3204-JLLU"
+  },
+  {
+    "order_id": "ORD-10107",
+    "customer_id": "CUST-1010",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 119.97,
+    "order_date": "2026-04-10T14:18:27.099965",
+    "estimated_delivery": "2026-04-17",
+    "shipping_address": "69378 Scott View Suite 772, Garyside, NM 24624",
+    "tracking_number": "TRK-8080-EQDW"
+  },
+  {
+    "order_id": "ORD-10108",
+    "customer_id": "CUST-1044",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 74.98,
+    "order_date": "2026-03-04T14:07:40.618851",
+    "estimated_delivery": "2026-03-07",
+    "shipping_address": "20387 Brown Route, Hopkinstown, AL 70259",
+    "tracking_number": "TRK-8600-HURI"
+  },
+  {
+    "order_id": "ORD-10109",
+    "customer_id": "CUST-1027",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 104.97,
+    "order_date": "2026-05-30T23:41:39.411856",
+    "estimated_delivery": "2026-06-02",
+    "shipping_address": "11823 Christine Glen Suite 461, Susanmouth, OK 32378",
+    "return_reason": "Changed my mind"
+  },
+  {
+    "order_id": "ORD-10110",
+    "customer_id": "CUST-1036",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 149.99,
+    "order_date": "2026-06-01T03:14:32.054030",
+    "estimated_delivery": "2026-06-08",
+    "shipping_address": "016 Bennett Mountains, Lake Albertburgh, CO 66018",
+    "tracking_number": "TRK-6591-HCON"
+  },
+  {
+    "order_id": "ORD-10111",
+    "customer_id": "CUST-1011",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 120.97,
+    "order_date": "2026-05-24T03:05:18.529375",
+    "estimated_delivery": "2026-06-01",
+    "shipping_address": "0148 Harry Vista Suite 039, Port Lori, GU 52706",
+    "tracking_number": "TRK-1429-PKYR"
+  },
+  {
+    "order_id": "ORD-10112",
+    "customer_id": "CUST-1042",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 24.99,
+    "order_date": "2026-05-23T16:50:04.364213",
+    "estimated_delivery": "2026-05-30",
+    "shipping_address": "185 Connor Fort, West Cassiefurt, WI 43279",
+    "tracking_number": "TRK-0477-OWJY"
+  },
+  {
+    "order_id": "ORD-10113",
+    "customer_id": "CUST-1042",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 94.97,
+    "order_date": "2026-04-11T21:07:49.629959",
+    "estimated_delivery": "2026-04-20",
+    "shipping_address": "94311 Moore Station Apt. 655, North Adamport, NV 47676",
+    "tracking_number": "TRK-4121-LBCJ"
+  },
+  {
+    "order_id": "ORD-10114",
+    "customer_id": "CUST-1032",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 269.97,
+    "order_date": "2026-04-22T22:34:38.244735",
+    "estimated_delivery": "2026-05-02",
+    "shipping_address": "58199 Shields Bridge, Robertland, VA 73840",
+    "tracking_number": "TRK-3982-RYKI"
+  },
+  {
+    "order_id": "ORD-10115",
+    "customer_id": "CUST-1040",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 29.99,
+    "order_date": "2026-03-28T05:12:13.860410",
+    "estimated_delivery": "2026-04-04",
+    "shipping_address": "26464 Patton Lake, Sherylfort, PA 81329",
+    "tracking_number": "TRK-3712-TAZV"
+  },
+  {
+    "order_id": "ORD-10116",
+    "customer_id": "CUST-1028",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 29.99,
+    "order_date": "2026-05-18T18:13:25.695149",
+    "estimated_delivery": "2026-05-24",
+    "shipping_address": "5692 Flores Square Apt. 752, Novakport, WA 91590",
+    "tracking_number": "TRK-7935-YRYZ"
+  },
+  {
+    "order_id": "ORD-10117",
+    "customer_id": "CUST-1045",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 39.98,
+    "order_date": "2026-04-05T20:46:20.818785",
+    "estimated_delivery": "2026-04-09",
+    "shipping_address": "USNS Vargas, FPO AP 24084",
+    "tracking_number": "TRK-8073-CZSS"
+  },
+  {
+    "order_id": "ORD-10118",
+    "customer_id": "CUST-1029",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 299.97,
+    "order_date": "2026-03-10T05:43:17.832987",
+    "estimated_delivery": "2026-03-17",
+    "shipping_address": "724 Johnny Drives Suite 617, Aguilarside, NY 91164",
+    "tracking_number": "TRK-6805-SZIM"
+  },
+  {
+    "order_id": "ORD-10119",
+    "customer_id": "CUST-1026",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 69.98,
+    "order_date": "2026-04-30T10:48:30.533876",
+    "estimated_delivery": "2026-05-05",
+    "shipping_address": "529 Anna Rue, Rasmussenmouth, WY 56921",
+    "tracking_number": "TRK-1014-OGVH"
+  },
+  {
+    "order_id": "ORD-10120",
+    "customer_id": "CUST-1004",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 79.98,
+    "order_date": "2026-04-23T05:36:16.805483",
+    "estimated_delivery": "2026-04-26",
+    "shipping_address": "5679 Michael Burg, Garciachester, PW 11754",
+    "tracking_number": "TRK-1254-VDYN"
+  },
+  {
+    "order_id": "ORD-10121",
+    "customer_id": "CUST-1018",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 114.97,
+    "order_date": "2026-04-19T21:56:48.916528",
+    "estimated_delivery": "2026-04-29",
+    "shipping_address": "7514 Lisa Crescent, Port Matthewville, TX 22043",
+    "tracking_number": "TRK-3828-KVJB"
+  },
+  {
+    "order_id": "ORD-10122",
+    "customer_id": "CUST-1022",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 94.97,
+    "order_date": "2026-05-29T06:37:05.346603",
+    "estimated_delivery": "2026-06-04",
+    "shipping_address": "226 Johnson Ridges Apt. 796, Smithborough, IL 36984",
+    "return_reason": "Arrived too late"
+  },
+  {
+    "order_id": "ORD-10123",
+    "customer_id": "CUST-1024",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 124.98,
+    "order_date": "2026-05-10T17:21:43.051923",
+    "estimated_delivery": "2026-05-19",
+    "shipping_address": "182 Nguyen Mount, West Emilyfort, NC 84270",
+    "tracking_number": "TRK-5969-ZLHW"
+  },
+  {
+    "order_id": "ORD-10124",
+    "customer_id": "CUST-1024",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 92.98,
+    "order_date": "2026-04-04T16:37:34.772268",
+    "estimated_delivery": "2026-04-12",
+    "shipping_address": "499 Emily Island, East Kevinburgh, MN 91391",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10125",
+    "customer_id": "CUST-1028",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 79.97,
+    "order_date": "2026-03-16T17:40:24.032452",
+    "estimated_delivery": "2026-03-21",
+    "shipping_address": "662 Reid Square, New Garrett, LA 18889",
+    "return_reason": "Wrong size"
+  },
+  {
+    "order_id": "ORD-10126",
+    "customer_id": "CUST-1030",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 79.98,
+    "order_date": "2026-03-20T20:28:18.557788",
+    "estimated_delivery": "2026-03-28",
+    "shipping_address": "0723 Maynard Parkways, Ortizfort, MT 93580",
+    "tracking_number": "TRK-7721-KBYW"
+  },
+  {
+    "order_id": "ORD-10127",
+    "customer_id": "CUST-1043",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 82.98,
+    "order_date": "2026-03-23T20:40:57.440962",
+    "estimated_delivery": "2026-03-26",
+    "shipping_address": "427 Dunn Creek, West Kimberlystad, ND 99694",
+    "tracking_number": "TRK-0783-BGVP"
+  },
+  {
+    "order_id": "ORD-10128",
+    "customer_id": "CUST-1039",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 59.99,
+    "order_date": "2026-05-10T15:14:42.567127",
+    "estimated_delivery": "2026-05-16",
+    "shipping_address": "4517 Kimberly Freeway, Port Joan, UT 46458",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10129",
+    "customer_id": "CUST-1027",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 124.97,
+    "order_date": "2026-05-20T12:12:14.662197",
+    "estimated_delivery": "2026-05-23",
+    "shipping_address": "92330 Patel Ranch Apt. 544, Stephaniehaven, MH 89538",
+    "tracking_number": "TRK-1260-RPIS"
+  },
+  {
+    "order_id": "ORD-10130",
+    "customer_id": "CUST-1002",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-05-20T23:04:08.709851",
+    "estimated_delivery": "2026-05-25",
+    "shipping_address": "67294 Brooks Club Apt. 684, Shawnfort, MD 76779",
+    "tracking_number": "TRK-0175-EYIZ"
+  },
+  {
+    "order_id": "ORD-10131",
+    "customer_id": "CUST-1015",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 99.97,
+    "order_date": "2026-03-23T14:51:05.574678",
+    "estimated_delivery": "2026-04-01",
+    "shipping_address": "4545 Ashlee Oval, Patriciaton, AZ 13552",
+    "tracking_number": "TRK-7012-CDAB"
+  },
+  {
+    "order_id": "ORD-10132",
+    "customer_id": "CUST-1039",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 92.98,
+    "order_date": "2026-03-22T05:20:46.372946",
+    "estimated_delivery": "2026-03-29",
+    "shipping_address": "424 Diamond Glen, West Elizabethburgh, AR 52450",
+    "tracking_number": "TRK-4361-TGAN"
+  },
+  {
+    "order_id": "ORD-10133",
+    "customer_id": "CUST-1029",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 99.97,
+    "order_date": "2026-04-15T22:14:28.963437",
+    "estimated_delivery": "2026-04-20",
+    "shipping_address": "700 Montoya Wall, Bensonfort, CA 30509",
+    "tracking_number": "TRK-6111-UXTI"
+  },
+  {
+    "order_id": "ORD-10134",
+    "customer_id": "CUST-1004",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 77.98,
+    "order_date": "2026-04-07T11:00:58.883913",
+    "estimated_delivery": "2026-04-14",
+    "shipping_address": "218 Chelsey Expressway, Bellborough, SC 98578",
+    "cancellation_reason": "Duplicate order"
+  },
+  {
+    "order_id": "ORD-10135",
+    "customer_id": "CUST-1019",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 92.98,
+    "order_date": "2026-03-17T15:18:25.241445",
+    "estimated_delivery": "2026-03-25",
+    "shipping_address": "11219 Bell Meadow Suite 234, East Angelaport, WI 91003",
+    "tracking_number": "TRK-0438-MGMV"
+  },
+  {
+    "order_id": "ORD-10136",
+    "customer_id": "CUST-1036",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 94.97,
+    "order_date": "2026-04-08T06:31:15.899624",
+    "estimated_delivery": "2026-04-11",
+    "shipping_address": "6137 Allison Bridge, Sarahberg, MS 74999",
+    "tracking_number": "TRK-6582-WEXE"
+  },
+  {
+    "order_id": "ORD-10137",
+    "customer_id": "CUST-1038",
+    "status": "returned",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 72.98,
+    "order_date": "2026-03-05T12:23:16.788170",
+    "estimated_delivery": "2026-03-11",
+    "shipping_address": "00684 Henderson Locks Apt. 889, West Christopher, CO 67518",
+    "return_reason": "Defective product"
+  },
+  {
+    "order_id": "ORD-10138",
+    "customer_id": "CUST-1039",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 179.97,
+    "order_date": "2026-05-25T21:32:11.701817",
+    "estimated_delivery": "2026-05-29",
+    "shipping_address": "Unit 2856 Box 9146, DPO AP 31779",
+    "tracking_number": "TRK-0316-HDNM"
+  },
+  {
+    "order_id": "ORD-10139",
+    "customer_id": "CUST-1040",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 119.98,
+    "order_date": "2026-03-08T23:12:02.546682",
+    "estimated_delivery": "2026-03-13",
+    "shipping_address": "02027 Mills Tunnel, Garyberg, WA 35728",
+    "tracking_number": "TRK-1056-RHEQ"
+  },
+  {
+    "order_id": "ORD-10140",
+    "customer_id": "CUST-1005",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 129.98,
+    "order_date": "2026-05-07T02:57:25.578007",
+    "estimated_delivery": "2026-05-15",
+    "shipping_address": "7850 Villarreal Expressway, Ericville, MH 75724",
+    "tracking_number": "TRK-1380-CAPC"
+  },
+  {
+    "order_id": "ORD-10141",
+    "customer_id": "CUST-1033",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-04-15T11:21:01.448556",
+    "estimated_delivery": "2026-04-25",
+    "shipping_address": "08635 Robert Stravenue, Josephland, OK 49365",
+    "return_reason": "Changed my mind"
+  },
+  {
+    "order_id": "ORD-10142",
+    "customer_id": "CUST-1047",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 39.99,
+    "order_date": "2026-03-14T18:14:41.629151",
+    "estimated_delivery": "2026-03-20",
+    "shipping_address": "38061 Cline Trail, Markside, NH 01545",
+    "tracking_number": "TRK-5349-YTVN"
+  },
+  {
+    "order_id": "ORD-10143",
+    "customer_id": "CUST-1043",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 107.97,
+    "order_date": "2026-03-25T20:19:13.133873",
+    "estimated_delivery": "2026-04-04",
+    "shipping_address": "83206 Jesse Key Apt. 506, Daltonhaven, IA 55527",
+    "tracking_number": "TRK-7024-FCOH"
+  },
+  {
+    "order_id": "ORD-10144",
+    "customer_id": "CUST-1023",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 99.97,
+    "order_date": "2026-04-10T04:32:29.704024",
+    "estimated_delivery": "2026-04-20",
+    "shipping_address": "PSC 7191, Box 8261, APO AP 74926",
+    "tracking_number": "TRK-0623-SQUZ"
+  },
+  {
+    "order_id": "ORD-10145",
+    "customer_id": "CUST-1001",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 104.97,
+    "order_date": "2026-04-08T09:06:59.968976",
+    "estimated_delivery": "2026-04-15",
+    "shipping_address": "7431 Derek Trail Apt. 212, Owenschester, DE 70745",
+    "cancellation_reason": "Duplicate order"
+  },
+  {
+    "order_id": "ORD-10146",
+    "customer_id": "CUST-1007",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 12.99,
+    "order_date": "2026-04-05T06:14:23.179609",
+    "estimated_delivery": "2026-04-15",
+    "shipping_address": "7411 Lindsey Hollow Apt. 352, Lake Johnstad, MO 67801",
+    "tracking_number": "TRK-0442-BZCJ"
+  },
+  {
+    "order_id": "ORD-10147",
+    "customer_id": "CUST-1007",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 14.99,
+    "order_date": "2026-05-10T08:11:18.005495",
+    "estimated_delivery": "2026-05-20",
+    "shipping_address": "21003 James Locks Suite 199, Samanthaland, AK 08951",
+    "tracking_number": "TRK-3721-ZVHC"
+  },
+  {
+    "order_id": "ORD-10148",
+    "customer_id": "CUST-1023",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 104.97,
+    "order_date": "2026-05-27T19:39:54.420124",
+    "estimated_delivery": "2026-06-06",
+    "shipping_address": "670 Vega Extensions Suite 324, Seanberg, AZ 80993",
+    "tracking_number": "TRK-9934-FAJE"
+  },
+  {
+    "order_id": "ORD-10149",
+    "customer_id": "CUST-1039",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 64.98,
+    "order_date": "2026-03-09T12:03:13.240022",
+    "estimated_delivery": "2026-03-15",
+    "shipping_address": "3838 Veronica Tunnel, Timothyfort, MI 74642",
+    "tracking_number": "TRK-8564-LBUM"
+  },
+  {
+    "order_id": "ORD-10150",
+    "customer_id": "CUST-1023",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 99.97,
+    "order_date": "2026-03-23T17:25:20.982456",
+    "estimated_delivery": "2026-03-30",
+    "shipping_address": "PSC 4078, Box 5932, APO AE 32988",
+    "tracking_number": "TRK-3480-WOKZ"
+  },
+  {
+    "order_id": "ORD-10151",
+    "customer_id": "CUST-1012",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 64.98,
+    "order_date": "2026-04-07T23:19:53.528056",
+    "estimated_delivery": "2026-04-10",
+    "shipping_address": "USNS Thompson, FPO AP 42182",
+    "tracking_number": "TRK-5905-KKJK"
+  },
+  {
+    "order_id": "ORD-10152",
+    "customer_id": "CUST-1003",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Baseball Cap",
+        "price": 14.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 14.99,
+    "order_date": "2026-05-28T08:48:53.503013",
+    "estimated_delivery": "2026-06-03",
+    "shipping_address": "427 Christopher Fort Apt. 087, West Samanthaborough, AS 17604",
+    "tracking_number": "TRK-5250-BJLT"
+  },
+  {
+    "order_id": "ORD-10153",
+    "customer_id": "CUST-1004",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 92.97,
+    "order_date": "2026-05-25T13:32:34.970813",
+    "estimated_delivery": "2026-05-28",
+    "shipping_address": "56915 Morris Estate Suite 752, Jeffreyshire, GU 23484",
+    "tracking_number": "TRK-6442-LUAS"
+  },
+  {
+    "order_id": "ORD-10154",
+    "customer_id": "CUST-1017",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 19.99,
+    "order_date": "2026-05-28T09:31:36.890993",
+    "estimated_delivery": "2026-06-01",
+    "shipping_address": "95939 Sharon Divide, Juliebury, MI 42380",
+    "tracking_number": "TRK-2157-AQNP"
+  },
+  {
+    "order_id": "ORD-10155",
+    "customer_id": "CUST-1042",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 29.99,
+    "order_date": "2026-05-05T09:35:57.169474",
+    "estimated_delivery": "2026-05-11",
+    "shipping_address": "006 Oconnor Expressway, Snyderfurt, MI 72069",
+    "tracking_number": "TRK-6179-PWRO"
+  },
+  {
+    "order_id": "ORD-10156",
+    "customer_id": "CUST-1037",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 69.99,
+    "order_date": "2026-03-18T15:40:37.035356",
+    "estimated_delivery": "2026-03-27",
+    "shipping_address": "0541 Matthew Lane, Lake Charles, MH 12704",
+    "tracking_number": "TRK-5997-TBBP"
+  },
+  {
+    "order_id": "ORD-10157",
+    "customer_id": "CUST-1033",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 204.97,
+    "order_date": "2026-03-18T20:43:58.186469",
+    "estimated_delivery": "2026-03-28",
+    "shipping_address": "15336 Guerrero Hills, North Brandon, OK 72546",
+    "tracking_number": "TRK-7205-ABFS"
+  },
+  {
+    "order_id": "ORD-10158",
+    "customer_id": "CUST-1032",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 137.97,
+    "order_date": "2026-05-17T03:57:25.459879",
+    "estimated_delivery": "2026-05-27",
+    "shipping_address": "10324 Thomas Crescent Suite 677, Christopherside, MS 24733",
+    "tracking_number": "TRK-5652-CCQC"
+  },
+  {
+    "order_id": "ORD-10159",
+    "customer_id": "CUST-1041",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 14.99,
+    "order_date": "2026-04-14T20:51:50.667058",
+    "estimated_delivery": "2026-04-23",
+    "shipping_address": "021 Elizabeth Valley Suite 938, Port Paulhaven, MT 70691",
+    "return_reason": "Wrong size"
+  },
+  {
+    "order_id": "ORD-10160",
+    "customer_id": "CUST-1031",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 42.99,
+    "order_date": "2026-05-04T20:24:20.242256",
+    "estimated_delivery": "2026-05-09",
+    "shipping_address": "USNS Alvarez, FPO AE 52248",
+    "tracking_number": "TRK-0898-ZKRN"
+  },
+  {
+    "order_id": "ORD-10161",
+    "customer_id": "CUST-1004",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 39.98,
+    "order_date": "2026-03-17T06:49:32.957589",
+    "estimated_delivery": "2026-03-26",
+    "shipping_address": "USCGC Thompson, FPO AE 28273",
+    "tracking_number": "TRK-3206-FRBM"
+  },
+  {
+    "order_id": "ORD-10162",
+    "customer_id": "CUST-1038",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 79.98,
+    "order_date": "2026-06-01T18:26:25.507432",
+    "estimated_delivery": "2026-06-05",
+    "shipping_address": "1168 Arnold Walks Suite 870, Rodriguezberg, FL 74765",
+    "tracking_number": "TRK-9911-KXGY"
+  },
+  {
+    "order_id": "ORD-10163",
+    "customer_id": "CUST-1041",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 94.98,
+    "order_date": "2026-03-29T18:17:58.033084",
+    "estimated_delivery": "2026-04-08",
+    "shipping_address": "4679 Johnson Harbor Suite 299, Williamsmouth, UT 31640",
+    "tracking_number": "TRK-0745-BVYT"
+  },
+  {
+    "order_id": "ORD-10164",
+    "customer_id": "CUST-1025",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 104.97,
+    "order_date": "2026-03-31T23:59:21.740066",
+    "estimated_delivery": "2026-04-05",
+    "shipping_address": "24754 Jacobs Corners, South Jason, GU 53869",
+    "tracking_number": "TRK-7850-GYKE"
+  },
+  {
+    "order_id": "ORD-10165",
+    "customer_id": "CUST-1043",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 29.99,
+    "order_date": "2026-04-01T00:21:53.173414",
+    "estimated_delivery": "2026-04-10",
+    "shipping_address": "902 Nancy Flats, East Antonioton, PW 47736",
+    "tracking_number": "TRK-3457-GZOH"
+  },
+  {
+    "order_id": "ORD-10166",
+    "customer_id": "CUST-1006",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 39.99,
+    "order_date": "2026-05-04T07:40:31.826808",
+    "estimated_delivery": "2026-05-12",
+    "shipping_address": "727 Cooper Villages Suite 140, Williamsshire, WI 28592",
+    "tracking_number": "TRK-3334-PAGB"
+  },
+  {
+    "order_id": "ORD-10167",
+    "customer_id": "CUST-1042",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 84.98,
+    "order_date": "2026-05-20T19:56:22.336544",
+    "estimated_delivery": "2026-05-23",
+    "shipping_address": "Unit 0722 Box 9034, DPO AP 40538",
+    "tracking_number": "TRK-4665-DQND"
+  },
+  {
+    "order_id": "ORD-10168",
+    "customer_id": "CUST-1018",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      },
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 109.98,
+    "order_date": "2026-03-31T04:58:20.229749",
+    "estimated_delivery": "2026-04-10",
+    "shipping_address": "108 Hoffman Ranch Suite 417, West Vanessamouth, VI 36792",
+    "tracking_number": "TRK-4432-HWPD"
+  },
+  {
+    "order_id": "ORD-10169",
+    "customer_id": "CUST-1014",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 114.98,
+    "order_date": "2026-05-15T12:04:02.300798",
+    "estimated_delivery": "2026-05-21",
+    "shipping_address": "520 Bright Green Suite 660, West Jessica, IN 90458",
+    "tracking_number": "TRK-8758-TKQJ"
+  },
+  {
+    "order_id": "ORD-10170",
+    "customer_id": "CUST-1027",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 129.97,
+    "order_date": "2026-03-20T07:35:32.430284",
+    "estimated_delivery": "2026-03-27",
+    "shipping_address": "482 Pena Forges, Jeffreyport, MT 43927",
+    "tracking_number": "TRK-5494-DHED"
+  },
+  {
+    "order_id": "ORD-10171",
+    "customer_id": "CUST-1021",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 69.99,
+    "order_date": "2026-05-20T23:44:54.842729",
+    "estimated_delivery": "2026-05-29",
+    "shipping_address": "3816 Gutierrez Ways, East Victoria, MA 54134",
+    "tracking_number": "TRK-9725-TLXF"
+  },
+  {
+    "order_id": "ORD-10172",
+    "customer_id": "CUST-1004",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 144.97,
+    "order_date": "2026-04-16T21:30:48.656537",
+    "estimated_delivery": "2026-04-25",
+    "shipping_address": "0074 Kathleen Extension, South Kristen, WI 12040",
+    "tracking_number": "TRK-2966-ZBEY"
+  },
+  {
+    "order_id": "ORD-10173",
+    "customer_id": "CUST-1029",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-03-04T10:25:27.213823",
+    "estimated_delivery": "2026-03-08",
+    "shipping_address": "58300 Jeremy Wells Suite 421, Gordonport, GA 09058",
+    "tracking_number": "TRK-0447-UHMH"
+  },
+  {
+    "order_id": "ORD-10174",
+    "customer_id": "CUST-1003",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 44.99,
+    "order_date": "2026-04-03T10:03:46.135793",
+    "estimated_delivery": "2026-04-07",
+    "shipping_address": "7532 Smith Fork, East Jessica, OR 66644",
+    "tracking_number": "TRK-2150-YOQX"
+  },
+  {
+    "order_id": "ORD-10175",
+    "customer_id": "CUST-1017",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 109.97,
+    "order_date": "2026-04-21T03:21:47.184291",
+    "estimated_delivery": "2026-04-25",
+    "shipping_address": "100 Robert Light, New Johnnyberg, IL 91621",
+    "tracking_number": "TRK-0461-QHRN"
+  },
+  {
+    "order_id": "ORD-10176",
+    "customer_id": "CUST-1022",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 34.99,
+    "order_date": "2026-04-27T12:30:32.603921",
+    "estimated_delivery": "2026-05-07",
+    "shipping_address": "914 Kristen Parks, New James, KS 69070",
+    "tracking_number": "TRK-3564-KCJF"
+  },
+  {
+    "order_id": "ORD-10177",
+    "customer_id": "CUST-1033",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 19.99,
+    "order_date": "2026-05-24T22:42:33.135145",
+    "estimated_delivery": "2026-05-27",
+    "shipping_address": "3001 Mary Skyway Suite 218, Lake Jenniferview, SD 30799",
+    "cancellation_reason": "Customer requested"
+  },
+  {
+    "order_id": "ORD-10178",
+    "customer_id": "CUST-1013",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 59.99,
+    "order_date": "2026-04-14T02:55:17.601377",
+    "estimated_delivery": "2026-04-21",
+    "shipping_address": "Unit 4701 Box 2045, DPO AP 41488",
+    "tracking_number": "TRK-6110-AIQP"
+  },
+  {
+    "order_id": "ORD-10179",
+    "customer_id": "CUST-1020",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "price": 149.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 149.99,
+    "order_date": "2026-03-19T08:38:43.460947",
+    "estimated_delivery": "2026-03-24",
+    "shipping_address": "415 White Locks Suite 746, Marshburgh, DE 17869",
+    "tracking_number": "TRK-0216-LEZK"
+  },
+  {
+    "order_id": "ORD-10180",
+    "customer_id": "CUST-1024",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      },
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 119.97,
+    "order_date": "2026-05-04T01:40:05.027474",
+    "estimated_delivery": "2026-05-07",
+    "shipping_address": "9027 Rodriguez Loop Suite 014, Alexanderhaven, WI 97969",
+    "tracking_number": "TRK-9935-HHSS"
+  },
+  {
+    "order_id": "ORD-10181",
+    "customer_id": "CUST-1027",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 104.98,
+    "order_date": "2026-04-28T15:44:06.588808",
+    "estimated_delivery": "2026-05-07",
+    "shipping_address": "5628 Alexander Estate, Christianburgh, CA 98992",
+    "tracking_number": "TRK-7535-RDGO"
+  },
+  {
+    "order_id": "ORD-10182",
+    "customer_id": "CUST-1045",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 59.98,
+    "order_date": "2026-04-22T13:24:33.550226",
+    "estimated_delivery": "2026-05-02",
+    "shipping_address": "77971 West Crest, Mcgeetown, CT 53380",
+    "tracking_number": "TRK-6088-AFYM"
+  },
+  {
+    "order_id": "ORD-10183",
+    "customer_id": "CUST-1044",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Hoodie",
+        "price": 39.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 39.99,
+    "order_date": "2026-05-29T16:47:19.626625",
+    "estimated_delivery": "2026-06-07",
+    "shipping_address": "755 Lisa Vista, Riverafort, VT 86637",
+    "tracking_number": "TRK-5711-WQOA"
+  },
+  {
+    "order_id": "ORD-10184",
+    "customer_id": "CUST-1037",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 112.97,
+    "order_date": "2026-04-03T17:40:12.922950",
+    "estimated_delivery": "2026-04-08",
+    "shipping_address": "851 Penny Park Apt. 614, East David, PR 51998",
+    "tracking_number": "TRK-3735-GWAC"
+  },
+  {
+    "order_id": "ORD-10185",
+    "customer_id": "CUST-1004",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 89.97,
+    "order_date": "2026-05-26T09:51:07.901458",
+    "estimated_delivery": "2026-05-31",
+    "shipping_address": "7982 Smith Street, New Savannahshire, NJ 67129",
+    "tracking_number": "TRK-2922-GYQM"
+  },
+  {
+    "order_id": "ORD-10186",
+    "customer_id": "CUST-1015",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 24.99,
+    "order_date": "2026-04-27T13:38:46.178259",
+    "estimated_delivery": "2026-05-02",
+    "shipping_address": "9346 Waller Mission Apt. 269, Meganside, VI 41645",
+    "tracking_number": "TRK-8333-NTSR"
+  },
+  {
+    "order_id": "ORD-10187",
+    "customer_id": "CUST-1048",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 14.99,
+    "order_date": "2026-04-04T02:10:22.885067",
+    "estimated_delivery": "2026-04-14",
+    "shipping_address": "851 Hart Prairie, Craigside, LA 55864",
+    "tracking_number": "TRK-0810-YJDQ"
+  },
+  {
+    "order_id": "ORD-10188",
+    "customer_id": "CUST-1048",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      },
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 122.97,
+    "order_date": "2026-03-09T02:36:18.724922",
+    "estimated_delivery": "2026-03-17",
+    "shipping_address": "4204 Karen Bypass, Lisaville, RI 89043",
+    "tracking_number": "TRK-8386-PGYY"
+  },
+  {
+    "order_id": "ORD-10189",
+    "customer_id": "CUST-1009",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 34.99,
+    "order_date": "2026-05-14T21:47:37.947359",
+    "estimated_delivery": "2026-05-21",
+    "shipping_address": "6658 Alexander Glen, New Misty, VI 58574",
+    "tracking_number": "TRK-3598-VMMX"
+  },
+  {
+    "order_id": "ORD-10190",
+    "customer_id": "CUST-1037",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 74.98,
+    "order_date": "2026-05-08T06:09:15.313063",
+    "estimated_delivery": "2026-05-11",
+    "shipping_address": "12281 Williams Harbors Suite 229, Adammouth, VT 20791",
+    "tracking_number": "TRK-0259-DXON"
+  },
+  {
+    "order_id": "ORD-10191",
+    "customer_id": "CUST-1023",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 59.99,
+    "order_date": "2026-05-18T21:31:16.493768",
+    "estimated_delivery": "2026-05-22",
+    "shipping_address": "58328 Kristie Estate Suite 886, West Jeffreyborough, TN 44001",
+    "cancellation_reason": "Duplicate order"
+  },
+  {
+    "order_id": "ORD-10192",
+    "customer_id": "CUST-1029",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 64.98,
+    "order_date": "2026-04-02T19:26:33.388690",
+    "estimated_delivery": "2026-04-12",
+    "shipping_address": "015 Allen Row Apt. 056, South Jonathanport, AK 68247",
+    "tracking_number": "TRK-5887-FCSP"
+  },
+  {
+    "order_id": "ORD-10193",
+    "customer_id": "CUST-1032",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 54.99,
+    "order_date": "2026-03-21T08:09:56.328572",
+    "estimated_delivery": "2026-03-29",
+    "shipping_address": "88013 Michelle Manors, East Amandachester, SD 09953",
+    "return_reason": "Wrong size"
+  },
+  {
+    "order_id": "ORD-10194",
+    "customer_id": "CUST-1032",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 39.99,
+    "order_date": "2026-05-10T05:37:23.060443",
+    "estimated_delivery": "2026-05-20",
+    "shipping_address": "501 Brian Underpass Suite 819, West Rickey, NV 83104",
+    "tracking_number": "TRK-6650-YRHI"
+  },
+  {
+    "order_id": "ORD-10195",
+    "customer_id": "CUST-1033",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 94.98,
+    "order_date": "2026-03-04T13:04:50.059935",
+    "estimated_delivery": "2026-03-12",
+    "shipping_address": "901 Reilly Coves, Kristinport, PA 11839",
+    "tracking_number": "TRK-4766-QBEK"
+  },
+  {
+    "order_id": "ORD-10196",
+    "customer_id": "CUST-1043",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 119.97,
+    "order_date": "2026-04-21T00:37:45.331389",
+    "estimated_delivery": "2026-04-28",
+    "shipping_address": "424 Bernard Branch Apt. 100, Medinaland, ME 28033",
+    "tracking_number": "TRK-5368-JKLO"
+  },
+  {
+    "order_id": "ORD-10197",
+    "customer_id": "CUST-1016",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 99.98,
+    "order_date": "2026-04-28T12:48:37.163116",
+    "estimated_delivery": "2026-05-05",
+    "shipping_address": "90878 Kelly Cliff, Coreyshire, NM 43866",
+    "cancellation_reason": "Duplicate order"
+  },
+  {
+    "order_id": "ORD-10198",
+    "customer_id": "CUST-1008",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 109.98,
+    "order_date": "2026-04-05T03:45:27.879676",
+    "estimated_delivery": "2026-04-10",
+    "shipping_address": "49135 Hayes Ridges, Heatherberg, OK 74800",
+    "tracking_number": "TRK-5562-AUPY"
+  },
+  {
+    "order_id": "ORD-10199",
+    "customer_id": "CUST-1042",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Webcam HD",
+        "price": 59.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 139.97,
+    "order_date": "2026-03-23T22:50:03.875910",
+    "estimated_delivery": "2026-03-29",
+    "shipping_address": "5257 Griffin Trail Suite 781, Lake Catherine, MP 37281",
+    "tracking_number": "TRK-2834-UOEU"
+  },
+  {
+    "order_id": "ORD-10200",
+    "customer_id": "CUST-1021",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 29.99,
+    "order_date": "2026-03-10T19:12:10.064025",
+    "estimated_delivery": "2026-03-14",
+    "shipping_address": "969 Rebecca Plaza, Amyside, NJ 86210",
+    "tracking_number": "TRK-2563-XLUS"
+  },
+  {
+    "order_id": "ORD-10201",
+    "customer_id": "CUST-1018",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Phone Case",
+        "price": 14.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 194.97,
+    "order_date": "2026-03-16T01:31:20.673457",
+    "estimated_delivery": "2026-03-24",
+    "shipping_address": "5803 Katherine Dam, Mooreshire, OK 86931",
+    "tracking_number": "TRK-2750-OWFO"
+  },
+  {
+    "order_id": "ORD-10202",
+    "customer_id": "CUST-1049",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Knife Set",
+        "price": 44.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 179.97,
+    "order_date": "2026-03-09T16:07:08.391151",
+    "estimated_delivery": "2026-03-14",
+    "shipping_address": "385 Harrison Motorway, North Tinamouth, CT 92741",
+    "tracking_number": "TRK-8449-IKLY"
+  },
+  {
+    "order_id": "ORD-10203",
+    "customer_id": "CUST-1046",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      }
+    ],
+    "category": "Books",
+    "total": 34.99,
+    "order_date": "2026-05-01T20:16:39.234929",
+    "estimated_delivery": "2026-05-07",
+    "shipping_address": "463 Gomez Ways, Tommyfort, FM 79696",
+    "tracking_number": "TRK-0827-KOEG"
+  },
+  {
+    "order_id": "ORD-10204",
+    "customer_id": "CUST-1028",
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 99.97,
+    "order_date": "2026-04-30T22:14:57.170572",
+    "estimated_delivery": "2026-05-10",
+    "shipping_address": "59136 Cortez Orchard, Mendozashire, GA 85338",
+    "cancellation_reason": "Payment failed"
+  },
+  {
+    "order_id": "ORD-10205",
+    "customer_id": "CUST-1023",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      },
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 85.98,
+    "order_date": "2026-05-18T00:24:26.211970",
+    "estimated_delivery": "2026-05-27",
+    "shipping_address": "99228 Patricia Drive, East Jonathanburgh, NC 53644",
+    "tracking_number": "TRK-9904-FNCM"
+  },
+  {
+    "order_id": "ORD-10206",
+    "customer_id": "CUST-1010",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Air Fryer",
+        "price": 79.99
+      },
+      {
+        "name": "Blender",
+        "price": 39.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 139.97,
+    "order_date": "2026-06-01T08:44:04.805153",
+    "estimated_delivery": "2026-06-05",
+    "shipping_address": "69292 Jackson Spur, Sandrashire, CA 30623",
+    "return_reason": "Arrived too late"
+  },
+  {
+    "order_id": "ORD-10207",
+    "customer_id": "CUST-1007",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Denim Jacket",
+        "price": 59.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 59.99,
+    "order_date": "2026-04-07T01:16:31.474091",
+    "estimated_delivery": "2026-04-12",
+    "shipping_address": "88629 Gregory Ridges, Port Amandaville, CO 63709",
+    "tracking_number": "TRK-2980-XRPB"
+  },
+  {
+    "order_id": "ORD-10208",
+    "customer_id": "CUST-1027",
+    "status": "returned",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 89.99,
+    "order_date": "2026-04-19T23:57:15.929848",
+    "estimated_delivery": "2026-04-22",
+    "shipping_address": "863 Clarke Light, Briannashire, CT 56270",
+    "return_reason": "Not as described"
+  },
+  {
+    "order_id": "ORD-10209",
+    "customer_id": "CUST-1003",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 99.97,
+    "order_date": "2026-03-16T01:31:35.029337",
+    "estimated_delivery": "2026-03-24",
+    "shipping_address": "49864 Adam Summit, New Alexandrahaven, AL 49656",
+    "tracking_number": "TRK-3565-GJBP"
+  },
+  {
+    "order_id": "ORD-10210",
+    "customer_id": "CUST-1006",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 69.99,
+    "order_date": "2026-04-25T16:44:18.557633",
+    "estimated_delivery": "2026-05-05",
+    "shipping_address": "594 Fischer Loop Suite 258, Kingport, OK 45636",
+    "tracking_number": "TRK-6213-CYSK"
+  },
+  {
+    "order_id": "ORD-10211",
+    "customer_id": "CUST-1044",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "price": 54.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Water Bottle",
+        "price": 12.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 87.97,
+    "order_date": "2026-03-13T00:56:26.530064",
+    "estimated_delivery": "2026-03-19",
+    "shipping_address": "902 Oconnell Avenue Apt. 279, Davisview, IN 49107",
+    "tracking_number": "TRK-1906-ZNPH"
+  },
+  {
+    "order_id": "ORD-10212",
+    "customer_id": "CUST-1009",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "The Pragmatic Programmer",
+        "price": 42.99
+      }
+    ],
+    "category": "Books",
+    "total": 42.99,
+    "order_date": "2026-03-29T19:06:44.762554",
+    "estimated_delivery": "2026-04-02",
+    "shipping_address": "USS Bautista, FPO AE 84425",
+    "tracking_number": "TRK-7703-QZHS"
+  },
+  {
+    "order_id": "ORD-10213",
+    "customer_id": "CUST-1003",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      },
+      {
+        "name": "Cutting Board Set",
+        "price": 19.99
+      }
+    ],
+    "category": "Home & Kitchen",
+    "total": 39.98,
+    "order_date": "2026-03-21T12:59:28.741571",
+    "estimated_delivery": "2026-03-31",
+    "shipping_address": "205 Diana Estate, West Kimberlystad, TN 52293",
+    "tracking_number": "TRK-6938-AVTE"
+  },
+  {
+    "order_id": "ORD-10214",
+    "customer_id": "CUST-1038",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 34.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 119.97,
+    "order_date": "2026-05-25T17:45:43.626544",
+    "estimated_delivery": "2026-06-02",
+    "shipping_address": "4393 Spears Ports Apt. 426, New Charlesport, MA 15837",
+    "tracking_number": "TRK-8489-QSCY"
+  },
+  {
+    "order_id": "ORD-10215",
+    "customer_id": "CUST-1015",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Apps",
+        "price": 39.99
+      }
+    ],
+    "category": "Books",
+    "total": 39.99,
+    "order_date": "2026-04-23T16:46:59.063187",
+    "estimated_delivery": "2026-05-01",
+    "shipping_address": "7907 Jonathan Light Apt. 356, Zacharytown, UT 35018",
+    "tracking_number": "TRK-3416-RVVE"
+  },
+  {
+    "order_id": "ORD-10216",
+    "customer_id": "CUST-1004",
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 29.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 119.98,
+    "order_date": "2026-04-22T22:10:12.495425",
+    "estimated_delivery": "2026-04-30",
+    "shipping_address": "3942 Victor Flats Apt. 343, East Mary, MP 81581",
+    "tracking_number": "TRK-5211-FRQF"
+  },
+  {
+    "order_id": "ORD-10217",
+    "customer_id": "CUST-1016",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "price": 89.99
+      },
+      {
+        "name": "Portable Charger",
+        "price": 24.99
+      }
+    ],
+    "category": "Electronics",
+    "total": 114.98,
+    "order_date": "2026-04-28T06:12:18.559744",
+    "estimated_delivery": "2026-05-02",
+    "shipping_address": "5957 Henry Track, Raymondshire, DC 07598",
+    "tracking_number": "TRK-8678-CGWZ"
+  },
+  {
+    "order_id": "ORD-10218",
+    "customer_id": "CUST-1049",
+    "status": "in-transit",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "price": 69.99
+      }
+    ],
+    "category": "Clothing",
+    "total": 69.99,
+    "order_date": "2026-05-20T10:48:11.414752",
+    "estimated_delivery": "2026-05-25",
+    "shipping_address": "87500 Nicolas Courts Suite 594, New Jose, KY 62281",
+    "tracking_number": "TRK-9552-FBNA"
+  },
+  {
+    "order_id": "ORD-10219",
+    "customer_id": "CUST-1049",
+    "status": "delayed",
+    "items": [
+      {
+        "name": "Clean Code",
+        "price": 34.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      },
+      {
+        "name": "Python Crash Course",
+        "price": 29.99
+      }
+    ],
+    "category": "Books",
+    "total": 94.97,
+    "order_date": "2026-05-06T01:52:41.386124",
+    "estimated_delivery": "2026-05-16",
+    "shipping_address": "7292 Lisa Stravenue Suite 386, Gonzalezberg, NJ 01777",
+    "tracking_number": "TRK-2672-OHIU"
+  }
+]

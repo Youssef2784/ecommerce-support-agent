@@ -1,0 +1,22 @@
+{
+  "baseline_strategy": "naive",
+  "final_strategy": "rerank",
+  "baseline_scores": {
+    "context_precision": 0.44000000000000006,
+    "context_recall": 0.975,
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0
+  },
+  "final_scores": {
+    "context_precision": 0.48,
+    "context_recall": 0.95,
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0
+  },
+  "delta": {
+    "context_precision": 0.039999999999999925,
+    "context_recall": -0.025000000000000022,
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0
+  }
+}

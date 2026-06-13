@@ -1,0 +1,45 @@
+[project]
+name = "ecommerce-support-agent"
+version = "0.1.0"
+description = "CSAI 422 Capstone — E-Commerce Customer Support Agent (LangGraph)"
+requires-python = ">=3.11"
+dependencies = [
+    # --- Core orchestration ---
+    "langgraph>=0.4.1",
+    "langgraph-checkpoint-sqlite>=2.0.0",
+    "langchain>=0.3.0",
+    "langchain-openai>=0.3.0",
+    "langchain-community>=0.3.0",
+
+    # --- RAG & retrieval ---
+    "chromadb>=1.0.0",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=3.0.0",
+
+    # --- Evaluation ---
+    "ragas>=0.2.0",
+
+    # --- Data generation ---
+    "faker>=28.0.0",
+
+    # --- UI ---
+    "streamlit>=1.40.0",
+
+    # --- Utilities ---
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "ruff>=0.8.0",
+]
+
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

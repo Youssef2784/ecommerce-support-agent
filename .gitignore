@@ -1,0 +1,47 @@
+# ---- Secrets (NEVER commit) ----
+.env
+.env.*
+!.env.example
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+
+# ---- Generated runtime state / data stores ----
+# SQLite checkpointer (regenerated on run) + WAL/SHM sidecars
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+# Chroma vector store (regenerate with `python -m src.rag.ingest`)
+chroma_db/
+.chroma/
+
+# ---- Report build artifacts (source kept: REPORT.md / REPORT.tex) ----
+REPORT.docx
+REPORT.html
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
