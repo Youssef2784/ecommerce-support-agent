@@ -14,7 +14,7 @@ Every external framework, library, dataset, and AI assistant used in this projec
 | rank-bm25 | 0.2.2 | BM25 lexical search for hybrid retrieval strategy |
 | sentence-transformers | 4.1.0 | Cross-encoder reranking (ms-marco-MiniLM-L-6-v2) |
 | Faker | 40.19.1 | Synthetic order data generation (220 orders, 50 customers) |
-| Streamlit | *(planned)* | Lightweight evaluation dashboard |
+| Streamlit | 1.58.0 | Observability dashboard — live chat, routing decisions, memory panel, RAGAS results |
 | python-dotenv | 1.2.2 | Environment variable management |
 | Pydantic | 2.13.4 | Data validation and state schema typing |
 
