@@ -55,9 +55,8 @@ source .venv/bin/activate
 # 3. Install dependencies
 pip install -e .
 
-# 4. Copy and fill in environment variables
-cp .env.example .env
-# Edit .env — add your OPENAI_API_KEY
+# 4. Create your environment file with your OpenAI key
+echo "OPENAI_API_KEY=your-key-here" > .env
 
 # 5. Generate synthetic order data
 python data/orders/generate_orders.py

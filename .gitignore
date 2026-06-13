@@ -1,7 +1,6 @@
-# ---- Secrets (NEVER commit) ----
+# ---- Secrets / env (NEVER commit) ----
 .env
 .env.*
-!.env.example
 
 # ---- Python ----
 __pycache__/
@@ -30,9 +29,12 @@ env/
 chroma_db/
 .chroma/
 
-# ---- Report build artifacts (source kept: REPORT.md / REPORT.tex) ----
+# ---- Report & Tool Disclosure (submitted separately; not part of the app) ----
+REPORT.md
+REPORT.tex
 REPORT.docx
 REPORT.html
+TOOL_DISCLOSURE.tex
 *.aux
 *.log
 *.out
